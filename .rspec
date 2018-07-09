@@ -1,3 +1,6 @@
 --format documentation
 --color
 --fail-fast
+
+puts "What is your name?"
+name = 
